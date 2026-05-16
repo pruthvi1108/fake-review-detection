@@ -74,6 +74,19 @@ The project can use:
 
 ---
 
+
+## 📉 Confusion Matrix
+
+![Confusion Matrix](assets/confusion_matrix.png)
+
+---
+
+## 📄 Classification Report
+
+![Classification Report](assets/classification_report.png)
+
+
+
 # 📊 Future Improvements
 
 * 🔹 Deep Learning models (LSTM/BERT)
